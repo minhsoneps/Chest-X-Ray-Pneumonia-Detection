@@ -1,0 +1,101 @@
+Epoch 1/30
+163/163 [==============================] - 335s 2s/step - loss: 0.3920 - accuracy: 0.8100 - val_loss: 0.8497 - val_accuracy: 0.6234
+Epoch 2/30
+163/163 [==============================] - 354s 2s/step - loss: 0.2989 - accuracy: 0.8698 - val_loss: 0.8223 - val_accuracy: 0.6216
+Epoch 3/30
+163/163 [==============================] - 323s 2s/step - loss: 0.2782 - accuracy: 0.8846 - val_loss: 0.8203 - val_accuracy: 0.6351
+
+Epoch 00003: ReduceLROnPlateau reducing learning rate to 0.0003000000142492354.
+Epoch 4/30
+163/163 [==============================] - 306s 2s/step - loss: 0.2323 - accuracy: 0.9096 - val_loss: 2.0214 - val_accuracy: 0.6250
+Epoch 5/30
+163/163 [==============================] - 289s 2s/step - loss: 0.1893 - accuracy: 0.9319 - val_loss: 0.2631 - val_accuracy: 0.8733
+Epoch 6/30
+163/163 [==============================] - 331s 2s/step - loss: 0.1941 - accuracy: 0.9227 - val_loss: 0.1277 - val_accuracy: 0.8209
+
+Epoch 00006: ReduceLROnPlateau reducing learning rate to 9.000000427477062e-05.
+Epoch 7/30
+163/163 [==============================] - 353s 2s/step - loss: 0.1707 - accuracy: 0.9356 - val_loss: 0.7245 - val_accuracy: 0.8564
+Epoch 8/30
+163/163 [==============================] - 259s 2s/step - loss: 0.1616 - accuracy: 0.9379 - val_loss: 0.4416 - val_accuracy: 0.8682
+
+Epoch 00008: ReduceLROnPlateau reducing learning rate to 2.700000040931627e-05.
+Epoch 9/30
+163/163 [==============================] - 252s 2s/step - loss: 0.1506 - accuracy: 0.9427 - val_loss: 0.5855 - val_accuracy: 0.8750
+Epoch 10/30
+163/163 [==============================] - 235s 1s/step - loss: 0.1564 - accuracy: 0.9448 - val_loss: 0.2895 - val_accuracy: 0.9257
+
+Epoch 00010: ReduceLROnPlateau reducing learning rate to 8.100000013655517e-06.
+Epoch 11/30
+163/163 [==============================] - 230s 1s/step - loss: 0.1474 - accuracy: 0.9483 - val_loss: 0.2175 - val_accuracy: 0.9054
+Epoch 12/30
+163/163 [==============================] - 232s 1s/step - loss: 0.1474 - accuracy: 0.9448 - val_loss: 0.0834 - val_accuracy: 0.9105
+
+Epoch 00012: ReduceLROnPlateau reducing learning rate to 2.429999949526973e-06.
+Epoch 13/30
+163/163 [==============================] - 244s 1s/step - loss: 0.1468 - accuracy: 0.9487 - val_loss: 0.2373 - val_accuracy: 0.9139
+Epoch 14/30
+163/163 [==============================] - 214s 1s/step - loss: 0.1496 - accuracy: 0.9504 - val_loss: 0.2568 - val_accuracy: 0.9155
+
+Epoch 00014: ReduceLROnPlateau reducing learning rate to 7.289999985005124e-07.
+Epoch 15/30
+163/163 [==============================] - 200s 1s/step - loss: 0.1437 - accuracy: 0.9498 - val_loss: 0.0985 - val_accuracy: 0.9206
+Epoch 16/30
+163/163 [==============================] - 202s 1s/step - loss: 0.1495 - accuracy: 0.9487 - val_loss: 0.2978 - val_accuracy: 0.9088
+
+Epoch 00016: ReduceLROnPlateau reducing learning rate to 2.1870000637136398e-07.
+Epoch 17/30
+163/163 [==============================] - 200s 1s/step - loss: 0.1439 - accuracy: 0.9450 - val_loss: 0.2155 - val_accuracy: 0.9223
+Epoch 18/30
+163/163 [==============================] - 199s 1s/step - loss: 0.1472 - accuracy: 0.9444 - val_loss: 0.1973 - val_accuracy: 0.9122
+
+Epoch 00018: ReduceLROnPlateau reducing learning rate to 6.561000276406048e-08.
+Epoch 19/30
+163/163 [==============================] - 199s 1s/step - loss: 0.1485 - accuracy: 0.9448 - val_loss: 0.2140 - val_accuracy: 0.9122
+Epoch 20/30
+163/163 [==============================] - 207s 1s/step - loss: 0.1521 - accuracy: 0.9458 - val_loss: 0.5802 - val_accuracy: 0.9172
+
+Epoch 00020: ReduceLROnPlateau reducing learning rate to 1.9683000829218145e-08.
+Epoch 21/30
+163/163 [==============================] - 224s 1s/step - loss: 0.1444 - accuracy: 0.9492 - val_loss: 0.2103 - val_accuracy: 0.9161
+Epoch 22/30
+163/163 [==============================] - 230s 1s/step - loss: 0.1529 - accuracy: 0.9484 - val_loss: 0.2888 - val_accuracy: 0.9155
+
+Epoch 00022: ReduceLROnPlateau reducing learning rate to 5.904900035602622e-09.
+Epoch 23/30
+163/163 [==============================] - 225s 1s/step - loss: 0.1458 - accuracy: 0.9485 - val_loss: 0.1029 - val_accuracy: 0.9105
+Epoch 24/30
+163/163 [==============================] - 254s 2s/step - loss: 0.1387 - accuracy: 0.9496 - val_loss: 0.2442 - val_accuracy: 0.9105
+
+Epoch 00024: ReduceLROnPlateau reducing learning rate to 1.7714700373261393e-09.
+Epoch 25/30
+163/163 [==============================] - 241s 1s/step - loss: 0.1402 - accuracy: 0.9487 - val_loss: 0.3265 - val_accuracy: 0.9172
+Epoch 26/30
+163/163 [==============================] - 223s 1s/step - loss: 0.1434 - accuracy: 0.9525 - val_loss: 0.3213 - val_accuracy: 0.9206
+
+Epoch 00026: ReduceLROnPlateau reducing learning rate to 5.314410245205181e-10.
+Epoch 27/30
+163/163 [==============================] - 225s 1s/step - loss: 0.1475 - accuracy: 0.9463 - val_loss: 0.1758 - val_accuracy: 0.9172
+Epoch 28/30
+163/163 [==============================] - 223s 1s/step - loss: 0.1426 - accuracy: 0.9485 - val_loss: 0.2784 - val_accuracy: 0.9189
+
+Epoch 00028: ReduceLROnPlateau reducing learning rate to 1.5943230069481729e-10.
+Epoch 29/30
+163/163 [==============================] - 220s 1s/step - loss: 0.1489 - accuracy: 0.9456 - val_loss: 0.2940 - val_accuracy: 0.9172
+Epoch 30/30
+163/163 [==============================] - 220s 1s/step - loss: 0.1476 - accuracy: 0.9458 - val_loss: 0.2408 - val_accuracy: 0.9088
+
+Epoch 00030: ReduceLROnPlateau reducing learning rate to 4.7829690208445185e-11.
+
+CONFUSION MATRIX:
+[[193  41]
+ [ 12 378]]
+
+TEST METRICS:
+Accuracy: 91.50641025641025 %
+Precision: 90.21479713603819 %
+Recall: 96.92307692307692 %
+F1-score: 93.44870210135969
+
+TRAINING METRIC:
+Training accuracy: 94.57692503929138 %
